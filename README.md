@@ -17,7 +17,7 @@ I am originally from Bangladesh 🇧🇩 but currently living in **Seoul, South 
 - 🔭 I’m currently working on **Q Learning Implementation on Edge Federated Cloud Environment**
 - 🌱 I’m currently learning everything **Reinforcement Learning**
 - 💬 Ask me about anything if my work featured in my repositories interest you
-- 📫 How to reach me: reach me via my [Email](esrat.maria@icloud.com)
+- 📫 How to reach me: reach me via my **Email**
 - 💻 Goals: Learn more technological stacks and improve my overall skills
 - ⚡ Fun fact: A good show on **Netflix** and I am sold
 - 🧡 I believe in **Open Source**
