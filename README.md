@@ -1,5 +1,6 @@
 
-[![Header](header/header.png "Header")]()
+![](header/header.png "Header")
+
 ### Hey there, I'm Maria - 🙋🏽‍♀️
 
 
