@@ -1,5 +1,5 @@
 
-![](header/header.png)
+![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)
 
 ### Hey there, I'm Maria - 🙋🏽‍♀️
 
