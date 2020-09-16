@@ -1,8 +1,7 @@
 
-![](header/header.png)(www.youtube.com)
+![](header/header.png)
 
 ### Hey there, I'm Maria - 🙋🏽‍♀️
-
 
 ## I'm a Research Student and a Passionate Developer!🌺
 
