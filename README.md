@@ -21,9 +21,6 @@ I am originally from Bangladesh 🇧🇩 but currently living in **Seoul, South 
 - 💻 Goals: Learn more technological stacks and improve my overall skills
 - ⚡ Fun fact: A good show on **Netflix** and I am sold
 - 🧡 I believe in **Open Source**
-
-</br>
-
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
