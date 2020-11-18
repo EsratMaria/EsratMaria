@@ -1,6 +1,4 @@
-<div align="center">
-![->](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)
-</div>
+![](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)
 
 ![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)
 
