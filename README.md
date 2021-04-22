@@ -6,7 +6,8 @@
 
 ### I'm an AI Engineer and a Data Science Enthusiast!🌺
 
-I am originally from Bangladesh 🇧🇩 but currently living in **Seoul, South Korea 🇰🇷.** Taking one step at a time to be more mindful of my journey. You can find me here on [![LinkedIn][2.2]][2] to know more about me and my works.
+I am originally from Bangladesh 🇧🇩 but currently living and working in **Seoul, South Korea 🇰🇷.** (*shreads happy tears ㅠ_ㅠ*)   
+Taking one step at a time to be more mindful of my journey. You can find me here on [![LinkedIn][2.2]][2] to know more about me and my works.
 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
