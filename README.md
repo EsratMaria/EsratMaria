@@ -15,7 +15,7 @@ I am originally from Bangladesh 🇧🇩 but currently living in **Seoul, South 
 [2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/
 
 
-- 🔭 I’m currently working on **Q Learning Implementation on Edge Federated Cloud Environment**
+- 🔭 I’m currently working on **AI Powered Chat Engine Imlpementaion**
 - 🌱 I’m currently learning everything **Natural Language Processing and Reinforcement Learning**
 - 💬 Ask me about anything if my work featured in my repositories interest you
 - 📫 How to reach me: reach me via my **Email**
