@@ -4,7 +4,7 @@
 
 ## Hey there, I'm Maria - 🙋🏽‍♀️
 
-### I'm a Research Student and a Passionate Developer!🌺
+### I'm an AI Engineer and a Passionate Developer!🌺
 
 I am originally from Bangladesh 🇧🇩 but currently living in **Seoul, South Korea 🇰🇷.** I am in my last semester of my Master degree. You can find me here on [![LinkedIn][2.2]][2] to know more about me and my works.
 
