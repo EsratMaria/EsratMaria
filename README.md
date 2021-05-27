@@ -41,6 +41,11 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 <img align="left" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/> 
 
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## Popular Repo 
 <a href="https://github.com/EsratMaria/MusicGenreRecogniton">
