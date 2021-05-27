@@ -53,8 +53,8 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 <a href="https://github.com/EsratMaria/MusicGenreRecogniton">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=MusicGenreRecogniton" />
 </a>
-<a href="https://github.com/EsratMaria/MusicGenreRecogniton">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=MusicGenreRecogniton" />
+<a href="https://github.com/EsratMaria/All-about-Natural-Language-and-Speech-Processing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=All-about-Natural-Language-and-Speech-Processing" />
 </a>
 <a href="https://github.com/EsratMaria/AlexNet-Cifar10">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=AlexNet-Cifar10" />
