@@ -38,6 +38,13 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 </br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" />
 <img align="left" alt="EsratMaria's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/> 
+
+<a href="https://github.com/EsratMaria/MusicGenreRecogniton">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=MusicGenreRecogniton" />
+</a>
+
+
+<br/>
 <br/>
 
 
