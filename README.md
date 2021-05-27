@@ -58,7 +58,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 </a>
 <a href="https://github.com/EsratMaria/AlexNet-Cifar10">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=AlexNet-Cifar10" />
-</a>
+</a> 
 
 <br/>
 <br/>
