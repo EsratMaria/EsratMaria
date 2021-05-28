@@ -1,8 +1,8 @@
-![](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)
+![](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)    
 
-![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)
+![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)    
 
-## Hey there, I'm Maria - 🙋🏽‍♀️
+## Hey there, I'm Maria - 🙋🏽‍♀️    
 
 ### I'm an AI Engineer and a Data Science Enthusiast! :tulip: 
 
@@ -47,4 +47,4 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 </br>
 
 
-I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.
+I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.     
