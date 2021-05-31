@@ -13,7 +13,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->                                                               
-[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/
+[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/                         
 
 
 - 🔭 I’m currently working on **AI Powered Chat Engine Imlpementaion**
@@ -35,7 +35,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-</br>                                                                                                                                     
+</br>                                                                                                                    
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" />
 <img align="left" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/> 
