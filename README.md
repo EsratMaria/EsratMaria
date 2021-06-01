@@ -6,14 +6,14 @@
 
 ### I'm an AI Engineer and a Data Science Enthusiast! :tulip:
 
-I am originally from Bangladesh 🇧🇩 but currently living and working in **Seoul, South Korea 🇰🇷.** (*shreads happy tears ㅠ_ㅠ*) ~   
+I am originally from Bangladesh 🇧🇩 but currently living and working in **Seoul, South Korea 🇰🇷.** (*shreads happy tears ㅠ_ㅠ*) ~  
 Taking one step at a time to be more mindful of my journey. You can find me here on [![LinkedIn][2.2]][2] to know more about me and my works.
 
-<!-- Icons -->                    
+<!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- Links to your social media accounts -->                                                               
-[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/                         
+<!-- Links to your social media accounts -->                                                       
+[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/               
 
 
 - 🔭 I’m currently working on **AI Powered Chat Engine Imlpementaion**
@@ -35,7 +35,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-</br>                                                                                                                    
+</br>                                                                         
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" />
 <img align="left" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/> 
