@@ -1,19 +1,19 @@
-![](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)
+![](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)    
 
-![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)
+![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)   
 
-## Hey there, I'm Maria - 🙋🏽‍♀️
+## Hey there, I'm Maria - 🙋🏽‍♀️        
 
-### I'm an AI Engineer and a Data Science Enthusiast! :tulip:
+### I'm an AI Engineer and a Data Science Enthusiast! :tulip:    
 
 I am originally from Bangladesh 🇧🇩 but currently living and working in **Seoul, South Korea 🇰🇷.** (*shreads happy tears ㅠ_ㅠ*) ~  
 Taking one step at a time to be more mindful of my journey. You can find me here on [![LinkedIn][2.2]][2] to know more about me and my works.
 
 <!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)    
 
 <!-- Links to your social media accounts -->                                                       
-[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/               
+[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/    
 
 
 - 🔭 I’m currently working on **AI Powered Chat Engine Imlpementaion**
@@ -37,7 +37,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
 </br>                                                                         
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" />            
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" />          
 <img align="left" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/> 
 
 </br>
