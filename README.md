@@ -51,7 +51,6 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 </br>                                           
 </br>    
 </br> 
-
 </br>
 </br>
 </br>                                           
