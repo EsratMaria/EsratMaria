@@ -22,7 +22,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 - 📫 How to reach me: reach me via my **Email**
 - 💻 Goals: Learn more technological stacks and improve my overall skills
 - ⚡ Fun fact: A good show on **Netflix** and I am sold 
-- 🧡 I believe in **Open Source** 
+- 🧡 I believe in **Open Source**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github)
 
