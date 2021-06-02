@@ -26,7 +26,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
 
 <img align="center" alt="EsratMaria's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github"/>
-</br>
+
 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -46,14 +46,10 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
 <img align="right" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/> 
 
-
-
 </br>
 </br>
 </br>                                           
-</br>                                          
-</br>
-</br> 
+</br>    
 </br> 
 
 I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.
