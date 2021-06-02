@@ -38,11 +38,12 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
 </br>                                                                     
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" /> 
+
+<img align="right" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/> 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github)
 
-<img align="left" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/> 
 
 </br>
 </br>
