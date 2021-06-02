@@ -24,8 +24,6 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 - ⚡ Fun fact: A good show on **Netflix** and I am sold 
 - 🧡 I believe in **Open Source**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github)
-
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
@@ -40,7 +38,10 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
 </br>                                                                     
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" />     
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" /> 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github)
+
 <img align="left" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/> 
 
 </br>
