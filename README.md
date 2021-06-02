@@ -25,14 +25,14 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 - 🧡 I believe in **Open Source** 
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396) 
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R) 
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php) 
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![ANDROID](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL) 
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 </br>                                                                     
