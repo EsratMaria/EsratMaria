@@ -46,5 +46,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 </br>                                          
 </br>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=solarized)
+
 
 I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.
