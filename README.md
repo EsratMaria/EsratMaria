@@ -28,7 +28,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 - 💬 Ask me about anything if my work featured in my repositories interest you
 - 📫 How to reach me: reach me via my **Email**
 - 💻 Goals: Learn more technological stacks and improve my overall skills
-- ⚡ Fun fact: A good show on **Netflix** and I am sold 
+- ⚡ Fun fact: A good show on **Netflix** and I am sold  <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/light.gif">
 - 🧡 I believe in **Open Source**
 
 
