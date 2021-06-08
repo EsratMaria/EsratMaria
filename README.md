@@ -1,30 +1,30 @@
-![](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)  
+![](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)
 
-![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png) 
+![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)
 ## Hey there, I'm Maria!<img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif">
 
-### I'm an AI Engineer and a Data Science Enthusiast! :tulip:
+### I'm an AI Engineer and a Data Science Enthusiast! :tulip:       
 
 I am originally from Bangladesh 🇧🇩 but currently living and working in **Seoul, South Korea 🇰🇷.** (*shreads happy tears ㅠ_ㅠ*) ~
-Taking one step at a time to be more mindful of my journey. You can find me here on [![LinkedIn][2.2]][2] to know more about me and my works.
+Taking one step at a time to be more mindful of my journey. You can find me here on [![LinkedIn][2.2]][2] to know more about me and my works.   
 
-<p align="center">
+<p align="center">   
   <img style="float: center;" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="85" height="82"></br>
   <span style="color:#ff6666">I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓</span></
   img>
 </p>
 
 
-
-<!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding) 
+    
+<!-- Icons -->    
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)      
 
 
 <!-- Links to your social media accounts -->                                                       
-[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/
+[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/      
 
 - 🔭 I’m currently working on **AI Powered Chat Engine Imlpementaion**
-- 🌱 I’m currently learning everything **Natural Language Processing and Reinforcement Learning**
+- 🌱 I’m currently learning everything **Natural Language Processing and Reinforcement Learning**     
 - 💬 Ask me about anything if my work featured in my repositories interest you
 - 📫 How to reach me: reach me via my **Email**
 - 💻 Goals: Learn more technological stacks and improve my overall skills
