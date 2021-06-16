@@ -19,7 +19,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-<!-- Links to your social media accounts -->                                                
+<!-- Links to your social media accounts -->                                       
 [2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/
 
 - 🔭 I’m currently working on **AI Powered Chat Engine Imlpementaion**
@@ -34,7 +34,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 <img align="center" alt="EsratMaria's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github"/>
 
    
-## Languages   
+## Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
@@ -52,5 +52,5 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" />
 </br>
 
-I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.
+I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.      
      
