@@ -2,7 +2,6 @@
 
 ![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)
 ## Hey there, I'm Maria!<img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif"> 
-
 ### I'm an AI Engineer and a Data Science Enthusiast! :tulip:
 
 I am originally from Bangladesh 🇧🇩 but currently living and working in **Seoul, South Korea 🇰🇷.** (*shreads happy tears ㅠ_ㅠ*) ~
