@@ -43,7 +43,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)      
 
 
 <img align="center" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/>
