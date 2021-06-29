@@ -21,13 +21,13 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 <!-- Links to your social media accounts -->                        
 [2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/
 
-- 🔭 I’m currently working on **AI Powered Chat Engine Imlpementaion**  
-- 🌱 I’m currently learning everything **Natural Language Processing and Reinforcement Learning**  
-- 💬 Ask me about anything if my work featured in my repositories interest you  
-- 📫 How to reach me: reach me via my **Email**  
-- 💻 Goals: Learn more technological stacks and improve my overall skills  
-- ⚡ Fun fact: A good show on **Netflix** and I am sold  <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/light.gif">  
-- 🧡 I believe in **Open Source**  
+- 🔭 I’m currently working on **AI Powered Chat Engine Imlpementaion**
+- 🌱 I’m currently learning everything **Natural Language Processing and Reinforcement Learning**
+- 💬 Ask me about anything if my work featured in my repositories interest you
+- 📫 How to reach me: reach me via my **Email**
+- 💻 Goals: Learn more technological stacks and improve my overall skills
+- ⚡ Fun fact: A good show on **Netflix** and I am sold  <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/light.gif">
+- 🧡 I believe in **Open Source**
 
              
 <img align="center" alt="EsratMaria's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github"/>
