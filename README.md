@@ -14,7 +14,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
        
              
-<!-- Icons -->
+<!-- Icons -->  
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
