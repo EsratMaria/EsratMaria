@@ -19,7 +19,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
 
 <!-- Links to your social media accounts -->                        
-[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/
+[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/  
 
 - 🔭 I’m currently working on **AI Powered Chat Engine Imlpementation**
 - 🌱 I’m currently learning everything **Natural Language Processing and Reinforcement Learning**
