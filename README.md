@@ -12,7 +12,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
   <span style="color:#ff6666">I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓</span></img>
 </p>
     
-      
+     
              
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
