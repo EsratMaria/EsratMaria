@@ -25,9 +25,9 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 - 💬 Ask me about anything if my work featured in my repositories interest you
 - 📫 How to reach me: reach me via my **Email**
 - 💻 Goals: Learn more technological stacks and improve my overall skills
-- 🤗 Find me on [**Kaggle**](https://www.kaggle.com/esratmaria) 🙌
 - ⚡ Fun fact: A good show on **Netflix** and I am sold  <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/light.gif">
 - 🧡 I believe in **Open Source**
+- 🤗 Find me on [**Kaggle**](https://www.kaggle.com/esratmaria) 🙌
 
              
 <img align="center" alt="EsratMaria's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github"/>
