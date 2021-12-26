@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)
- 
+
 ![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)
 ## Hey there, I'm Maria!<img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif">
 ### I'm an AI Engineer and a Data Science Enthusiast! 🌺🌟
@@ -13,7 +13,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
   <span style="color:#ff6666">I love meeting and knowing new people. Lets connect and discuss ideas ~ 🤓</span></img>
 </p>
 
-<!-- Icons --> 
+<!-- Icons -->  
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
  
@@ -28,7 +28,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 - ⚡ Fun fact: A good show on **Netflix** and I am sold  <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/light.gif">
 - 🧡 I believe in **Open Source**
 - 🤗 Find me on [**Kaggle**](https://www.kaggle.com/esratmaria) 🙌🏽
-
+ 
              
 <img align="center" alt="EsratMaria's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github"/>
 
