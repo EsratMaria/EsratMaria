@@ -20,7 +20,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
 - 🔭 I’m currently working on **AI Powered Chat Engine Implementation using HuggingFace 🤗**
 - 🌱 I’m currently learning everything **Reinforcement Learning, Natural Language Processing and Training Automation**
-- 💬 Ask me about anything if my work featured in my repositories interest you
+- 💬 Ask me about anything if my works featured in my repositories interest you
 - 📫 How to reach me: reach me via my **Email**
 - 💻 Goals: Learn more technological stacks and improve my overall skills
 - ⚡ Fun fact: A good show on **Netflix** and I am sold  <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/light.gif">
