@@ -19,7 +19,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 [2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/
 
 - 🔭 I’m currently working on **AI Powered Chat Engine with HuggingFace 🤗 and Train Automation**
-- 🌱 I’m currently learning everything **Natural Language Processing and Reinforcement Learning**
+- 🌱 I’m currently learning everything **Reinforcement Learning, Natural Language Processing and Training Automation**
 - 💬 Ask me about anything if my work featured in my repositories interest you
 - 📫 How to reach me: reach me via my **Email**
 - 💻 Goals: Learn more technological stacks and improve my overall skills
