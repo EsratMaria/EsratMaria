@@ -15,7 +15,6 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
-
 <!-- Links to your social media accounts -->
 [2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/
 
