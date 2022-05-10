@@ -16,7 +16,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
 
 <!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/ 
+[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/
 
 - 🔭 I’m currently working on **AI Powered Chat Engine Implementation using HuggingFace 🤗**
 - 🌱 I’m currently learning everything **Reinforcement Learning, NLP and Training Automation**
