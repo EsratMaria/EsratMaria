@@ -32,7 +32,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
    
 ## Languages
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)   
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
