@@ -19,7 +19,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 [2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/    
 
 - 🔭 I’m currently working on **AI Powered Chat Engine using 🤗 Pre-trained Transformer Models to Generate Human-like Text**
-- 🌱 I’m currently learning everything about **Large Language Modeling (GPT-3/ OPT), ML, NLP & Reinforcement Learning**
+- 🌱 I’m currently learning everything about **Large Language Modeling (GPT-4/ ChatGPT), ML, NLP & Reinforcement Learning**
 - 💬 Ask me about anything if my works featured in my repositories interest you
 - 📫 How to reach me: reach me via my **Email**
 - 💻 Goals: Learn more technological stacks and improve my overall skills
