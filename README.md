@@ -30,7 +30,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
              
 <img align="center" alt="EsratMaria's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github"/>
 
-<img align="center" alt="EsratMaria's Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=github-readme-stats&cache_seconds=86400&theme=vue"/>
+<img align="center" alt="EsratMaria's Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=Reinforcement-Learning_for_Energy_Minimization_Using_CLoudsim&cache_seconds=86400&theme=vue"/>
    
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
