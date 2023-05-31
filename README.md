@@ -51,7 +51,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&locale=en" alt="EsratMaria's Github Stats" />
 </a>
 
-<img align="center" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/>
+<!-- <img align="center" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/> -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" /> -->
 </br>
