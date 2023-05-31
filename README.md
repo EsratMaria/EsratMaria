@@ -35,10 +35,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
   
   <img align="center" alt="EsratMaria's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github"/>
   
-</p>
-
-   
-## Languages
+  ## Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
@@ -72,5 +69,10 @@ I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI
   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> -->
   <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='40' height='40'></a>
 </a>
+
+  
+</p>
+
+   
 
 
