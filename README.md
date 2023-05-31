@@ -47,7 +47,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EsratMaria&show_icons=false&locale=en&layout=compact" alt="EsratMaria" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api?username=classmatelin&show_icons=true&locale=en" alt="classmatelin" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=classmatelin&show_icons=true&locale=en" alt="classmatelin" />
 </a>
 
 <img align="center" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/>
