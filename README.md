@@ -27,10 +27,10 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 - 🧡 I believe in **Open Source**
 - 🤗 Find me on [**Kaggle**](https://www.kaggle.com/esratmaria) 🙌🏽
  
- <a>
-  <img align="center" alt="EsratMaria's Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=Reinforcement-Learning_for_Energy_Minimization_Using_CLoudsim&cache_seconds=86400&theme=graywhite"/>
+<p align="center">
+  <img style="float: center;" alt="EsratMaria's Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=Reinforcement-Learning_for_Energy_Minimization_Using_CLoudsim&hide=contribs,prs&theme=graywhite"/>
   
-</a>
+</p>
              
 <img align="center" alt="EsratMaria's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github"/>
 
