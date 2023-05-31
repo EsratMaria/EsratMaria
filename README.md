@@ -43,6 +43,9 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EsratMaria&show_icons=true&locale=en&layout=compact" alt="EsratMaria" />
+</a>
 
 <img align="center" alt="EsratMaria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsratMaria&show_icons=true&hide_border=true"/>
 
