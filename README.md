@@ -26,6 +26,9 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 - ⚡ Fun fact: A good show on **Netflix** and I am sold  <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/light.gif"> Lights me up like a nueral network
 - 🧡 I believe in **Open Source**
 - 🤗 Find me on [**Kaggle**](https://www.kaggle.com/esratmaria) 🙌🏽
+
+</br>
+</br>
  
 <p align="center">
   <img style="float: center;" alt="EsratMaria's Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=Reinforcement-Learning_for_Energy_Minimization_Using_CLoudsim&hide=contribs,prs&theme=graywhite"/>
