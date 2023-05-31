@@ -30,9 +30,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
              
 <img align="center" alt="EsratMaria's Github Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EsratMaria&theme=github"/>
 
-
-[flag-india]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=flag-india
-
+<img align="center" alt="EsratMaria's Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=EsratMaria&repo=github-readme-stats&cache_seconds=86400&theme=vue"/>
    
 ## Languages
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
