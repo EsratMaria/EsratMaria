@@ -16,7 +16,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 
 
 <!-- Links to your social media accounts -->
-[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/ 
+[2]: https://www.linkedin.com/in/esrat-maria-1598ab19a/
 
 - 🔭 I previously worked on **AI Powered Chat Engine using 🤗 Pre-trained/ Finetuned Transformer Models to Generate Human-like Text**
 - 🌱 I’m currently learning everything about **Large Language Modeling (GPT-4/ ChatGPT), NLP & Reinforcement Learning**
