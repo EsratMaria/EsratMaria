@@ -50,7 +50,7 @@ Taking one step at a time to be more mindful of my journey. You can find me here
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EsratMaria&show_icons=false&locale=en&layout=compact" alt="EsratMaria" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EsratMaria&theme=buefy&show_icons=false&locale=en&layout=compact" alt="EsratMaria" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
