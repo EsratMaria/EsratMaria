@@ -1,4 +1,4 @@
-  ![](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)
+ ![](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)
 ![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)
 ## Hey there, I'm Maria!<img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif">
 ### I'm an NLP Specialist and a Data Science Enthusiast!🌷🌟
