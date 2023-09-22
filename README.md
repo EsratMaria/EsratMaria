@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=EsratMaria&color=yellow&style=flat-square)
 ![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)
 
-## Hey there, I'm Maria!<img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif"/>
-
+## Hey there, I'm Maria!
 ### I'm an NLP Specialist and a Data Science Enthusiast!🌷🌟
 
 I am originally from Bangladesh 🇧🇩 but currently living and working in **Munich, Germany 🇩🇪.**
@@ -65,7 +64,7 @@ src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004ea
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsratMaria&langs_count=8&layout=compact" /> -->
 </br>
 
-I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.      
+I am thankful for the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) and [here](https://github.com/anuraghazra/github-readme-stats) that helped me create this.      
 
 <p align="center">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
@@ -76,4 +75,4 @@ I am thankful to the contents [here](https://www.youtube.com/watch?v=ECuqb5Tv9qI
 </p>
 
 
-
+<img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif
