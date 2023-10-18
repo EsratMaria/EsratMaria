@@ -34,7 +34,7 @@ src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004ea
 - 🧡 I believe in **Open Source**
 - 🤗 Find me on [**Kaggle**](https://www.kaggle.com/esratmaria) 🙌🏽
 
-</br> 
+</br>
 </br>
  
 <p align="center">
