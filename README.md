@@ -5,9 +5,9 @@
   <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif">
 </p>
 
-### **Hey there, I'm Maria!**
+# **Hey there, I'm Maria!**
 
-**I'm an NLP Specialist and a Data Science Enthusiast!🌷🌟**
+## **I'm an NLP Specialist and a Data Science Enthusiast!🌷🌟**
 
 I am originally from Bangladesh 🇧🇩 but currently living and working in **Munich, Germany 🇩🇪.**
 Taking one step at a time to be more mindful of my journey. You can find me here on [![LinkedIn][2.2]][2] to know more about me and my work.
