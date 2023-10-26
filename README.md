@@ -5,7 +5,7 @@
   <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif">
 </p>
 
-# **Hey there, I'm Maria!**
+### **Hey there, I'm Maria!**
 
 **I'm an NLP Specialist and a Data Science Enthusiast!🌷🌟**
 
