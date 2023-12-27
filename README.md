@@ -2,7 +2,7 @@
 ![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)
 
 <p align="center">
-  <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif">
+  <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif">   
 </p>
 
 # **Hey there, I'm Maria!**
