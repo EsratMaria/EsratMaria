@@ -2,10 +2,10 @@
 ![](https://github.com/EsratMaria/EsratMaria/blob/master/header/header.png)
 
 <p align="center">
-  <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif">
+<!--   <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif"> -->
 </p>
 
-# **Hey there, I'm Maria!**
+# **Hey there, I'm Maria!** <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/hello.gif">
 
  **I'm an NLP Specialist and a Data Science Enthusiast!🌷🌟**
 
