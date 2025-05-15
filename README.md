@@ -27,7 +27,7 @@ src="https://i.ibb.co/5202Tkp/lucy-2.gif" width="85" height="82"></br>
 
 - 🔭 I previously worked on **AI Powered Chat Engine using 🤗 Pre-trained/ Finetuned Transformer Models to Generate Human-like Text**
 - 🌱 I’m currently learning everything about **Large Language Modeling (GPT-4/ ChatGPT), NLP & Reinforcement Learning**
-- 💬 Ask me about anything if my works featured in my repositories interest you
+- 💬 Ask me about anything if my work featured in my repositories interests you
 - 📫 How to reach me: reach me via my **Email**
 - 💻 Goals: Learn more technological stacks and improve my overall skills
 - ⚡ Fun fact: A good show on **Netflix** and I am sold  <img src="https://github.com/EsratMaria/EsratMaria/blob/master/header/light.gif"> Lights me up like a nueral network
